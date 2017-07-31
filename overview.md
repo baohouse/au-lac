@@ -25,8 +25,8 @@
 * 204 BC - Zhao Tuo declares Kingdom of Nanyue
 * 202 BC - Han dynasty founded by Emperor Gaozu of Han
 * 196 BC - Zhao Tuo recognized as King of Nanyue by Han dynasty
-* 183 BC - Han dynasty places trade embargo on Nanyue
 * The Wedding Between Foes; Zhao Zhong Shi and Phan My Chau wed, securing an uneasy peace between Nanyue and Au Lac
+* 183 BC - Han dynasty places trade embargo on Nanyue
 * Zhong Shi returns to visit his father
 * 179 BC - Sacking of Co Loa Citadel, and the Fall of Au Lac
 * My Chau's Death
