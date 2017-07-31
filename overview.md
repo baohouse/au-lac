@@ -25,10 +25,12 @@
 * 204 BC - Zhao Tuo declares Kingdom of Nanyue
 * 202 BC - Han dynasty founded by Emperor Gaozu of Han
 * 196 BC - Zhao Tuo recognized as King of Nanyue by Han dynasty
+* 195 BC - Emperor Gaozu dies, succeeded by Empress Lü Zhi
 * The Wedding Between Foes; Zhao Zhong Shi and Phan My Chau wed, securing an uneasy peace between Nanyue and Au Lac
 * 183 BC - Han dynasty places trade embargo on Nanyue
 * Zhong Shi returns to visit his father
-* 179 BC - Sacking of Co Loa Citadel, and the Fall of Au Lac
+* 179 BC - Liu Heng becomes Emperor after Empress Lü Zhi dies.
+  * Sacking of Co Loa Citadel, and the Fall of Au Lac
 * My Chau's Death
 * Zhong Shi's Suicide
 
