@@ -34,6 +34,9 @@
       * Wife of Thuc Phan (mother of Thuc My Chau)
       * Multiple children of Thuc Phan?
   * Generals and lieutenants of Nanyue
+    * Feng
+  * Co Loa School - A place of cultural exchange through which My Chau adopts orphans, and Zhong Shi leads the teaching of Qin/Nanyue culture to the students.
+    * Cao
 
 ### Not Too Important
   * Neighboring states
