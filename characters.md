@@ -1,8 +1,8 @@
 # Known Characters
 
 ## Âu Lạc / Ouluo
-  * Thuc Phan (An Duong King)
-  * Thuc My Chau
+  * Thục Phán (An Dương King)
+  * Thục Mỵ Châu
   * Kim Quy
 
 ## Nanyue / Nam Việt
@@ -30,12 +30,12 @@
 
 ### Pretty Important
   * Clans and chieftains of Âu Lạc
-    * Thuc clan
-      * Wife of Thuc Phan (mother of Thuc My Chau)
-      * Multiple children of Thuc Phan?
+    * Thục clan
+      * Wife of Thục Phán (mother of Thục Mỵ Châu)
+      * Multiple children of Thục Phán?
   * Generals and lieutenants of Nanyue
     * Feng
-  * Co Loa School - A place of cultural exchange through which My Chau adopts orphans, and Zhong Shi leads the teaching of Qin/Nanyue culture to the students.
+  * Co Loa School - A place of cultural exchange through which Mỵ Châu adopts orphans, and Zhong Shi leads the teaching of Qin/Nanyue culture to the students.
     * Cao
 
 ### Not Too Important
