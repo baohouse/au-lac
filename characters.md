@@ -3,6 +3,8 @@
 ## Âu Lạc / Ouluo
   * Thục Phán (An Dương King)
   * Thục Mỵ Châu
+  * Thục Mỵ Hà, older sister of Mỵ Châu
+  * Qúy An, warrior and martial teacher to Mỵ Châu
   * Kim Quy
 
 ## Nanyue / Nam Việt
@@ -32,7 +34,6 @@
   * Clans and chieftains of Âu Lạc
     * Thục clan
       * Wife of Thục Phán (mother of Thục Mỵ Châu)
-      * Multiple children of Thục Phán?
   * Generals and lieutenants of Nanyue
     * Feng
   * Co Loa School - A place of cultural exchange through which Mỵ Châu adopts orphans, and Zhong Shi leads the teaching of Qin/Nanyue culture to the students.
