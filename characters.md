@@ -2,7 +2,7 @@
 
 ## Âu Lạc / Ouluo
   * Thục Phán (An Dương King)
-  * Thục Mỵ Châu
+  * Thục Mỵ Châu (b. 209 BC, water dragon)
   * Thục Mỵ Hà, older sister of Mỵ Châu
   * Qúy An, warrior and martial teacher to Mỵ Châu
   * Kim Quy
