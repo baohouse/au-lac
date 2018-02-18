@@ -2,15 +2,16 @@
 
 ## Key Events
 
-* 262–260 BC - Battle of Chanping
+* 262–260 BC - Battle of Changping
   * Despite Zhao surrendering, they were mass executed. Zhao lost an estimated 450,000 soldiers.
 * 257 BC - Formation of Âu Lạc
   * Thục Phán, along with the Âu Việt, conquer the Lạc Việt
 * 240 BC - Zhao Tuo was born
 * 230 BC - Han falls to Qin
+* 228 BC - Zhao falls to Qin
 * 225 BC - Wei falls to Qin
 * 223 BC - Chu falls to Qin
-* 222 BC - Zhao and Yan falls to Qin
+* 222 BC - Yan falls to Qin
 * 221 BC - Qi surrenders, starting the Qin dynasty
   * Walls that once divided the various states are torn down
   * Efforts to reinforce the northern border wall against the Xiongnu peoples begin; the effort would involve hundreds of thousands of laborers
