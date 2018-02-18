@@ -4,12 +4,14 @@
   * Thục Phán (An Dương King)
   * Thục Mỵ Châu (b. 209 BC, water dragon)
   * Thục Mỵ Hà, older sister of Mỵ Châu
+  * Thục Mỵ Lan, slightly older sister of Mỵ Châu
   * Qúy An, warrior and martial teacher to Mỵ Châu
   * Kim Quy
 
 ## Nanyue / Nam Việt
   * Zhao Tuo
   * Zhao Zhong Shi
+  * Zhao Mo (Triệu Mạt) - Son of Zhao Zhong Shi and Thục Mỵ Châu
 
 ## Han dynasty
   * Liu Bang (Emperor Gaozu) - First emperor of Han
