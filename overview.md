@@ -15,10 +15,9 @@
 * 221 BC - Qi surrenders, starting the Qin dynasty
   * Walls that once divided the various states are torn down
   * Efforts to reinforce the northern border wall against the Xiongnu peoples begin; the effort would involve hundreds of thousands of laborers
-* 218 BC - Qin sends 500,000 soldiers southward to pacify the frontier, led by General Tu Sui
+  * Qin begins to send 500,000 soldiers southward to pacify the frontier, led by General Tu Sui
 * 214 BC - Qin army establishes Panyu, capital of Nanhai Commandery
   * Qin complete construction of Lingqu Canal
-* Âu Việt defeated by Qin
 * Zhao Tuo becomes commander of Longchuan
 * 210 BC - Death of Qin Shi Huang, succeeded by Qin Er Shi
 * Nanhai Viceroy Ren Xiao falls ill, names Zhao Tuo as new viceroy
